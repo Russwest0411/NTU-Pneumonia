@@ -1,2 +1,0 @@
-# NTU-Pneumonia
-Pneumonia prediction
